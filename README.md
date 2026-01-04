@@ -19,7 +19,6 @@ This repository is a showcase of data visualization projects, with each one expl
 ## 📂 Repository Structure
 Each folder contains:  
 - 📁 **Dataset** and links to its source  
-- 🧩 **Visualization files** (Tableau workbook, Excel file, Datawrapper chart, or Observable notebook)  
 - 🖼 **Final visuals** (images, dashboards, or charts)  
 - 📝 **Short summary** of insights and observations
 

@@ -1,7 +1,5 @@
 ## Visualizations  
 
-### NOTE: Change v5 to be more optimal and then add it
-
 ### Visualization 1  
 ![Visualization1](Visualizations/Viz1.png)
 
