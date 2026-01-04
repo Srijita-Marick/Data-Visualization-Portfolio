@@ -20,7 +20,6 @@ This repository is a showcase of data visualization projects, with each one expl
 Each folder contains:  
 - 📁 **Dataset** and links to its source  
 - 🖼 **Final visuals** (images, dashboards, or charts)  
-- 📝 **Short summary** of insights and observations
 
 ## 🚀 Future Plans
 I plan to continue adding weekly projects, experimenting with interactive visualizations, and exploring new tools and techniques to enhance storytelling with data.
